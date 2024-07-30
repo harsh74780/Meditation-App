@@ -1,0 +1,15 @@
+<resources>
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#4CAF50</color> <!-- Green -->
+    <color name="colorPrimaryDark">#388E3C</color> <!-- Dark Green -->
+    <color name="colorAccent">#FFC107</color> <!-- Amber -->
+
+    <!-- Background and Text Colors -->
+    <color name="backgroundColor">#F5F5F5</color> <!-- Light Grey -->
+    <color name="textColor">#212121</color> <!-- Dark Grey -->
+    <color name="buttonColor">#4CAF50</color> <!-- Green -->
+    <color name="buttonTextColor">#FFFFFF</color> <!-- White -->
+    <color name="white">#FFFFFF</color> <!-- White -->
+
+
+</resources>

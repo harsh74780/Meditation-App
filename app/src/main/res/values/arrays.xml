@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="meditation_types">
+        <item>Breathing</item>
+        <item>Body Scan</item>
+        <item>Loving-Kindness</item>
+    </string-array>
+</resources>
